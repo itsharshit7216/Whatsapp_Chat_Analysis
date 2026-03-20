@@ -4,7 +4,7 @@ A comprehensive Streamlit web application to analyze and visualize your exported
 
 ## DEMO :
 
-https://whatsappchatanalysis-aynr5zticmyg4zkh39mkrf.streamlit.app/
+[https://whatsappchatanalysis-aynr5zticmyg4zkh39mkrf.streamlit.app/](https://whatsappchatanalysis-aynr5zticmyg4zkh39mkrf.streamlit.app/)
 
 ## 🌟 Features
 

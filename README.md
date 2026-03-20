@@ -2,6 +2,10 @@
 
 A comprehensive Streamlit web application to analyze and visualize your exported WhatsApp chat data. Gain insights into your texting habits, identify the most active group members, and view activity trends over time!
 
+## DEMO :
+
+https://whatsappchatanalysis-aynr5zticmyg4zkh39mkrf.streamlit.app/
+
 ## 🌟 Features
 
 - **Overall Statistics:** At-a-glance view of total messages, total word count, media shared, and links sent.
@@ -54,4 +58,3 @@ After executing this command, your default web browser should automatically open
 - [emoji](https://pypi.org/project/emoji/) - Emoji parsing
 
 ---
-*Original Demo Link: [wca-campusx.herokuapp.com](https://wca-campusx.herokuapp.com/) (Service availability may vary)*

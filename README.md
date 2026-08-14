@@ -6,6 +6,11 @@ A comprehensive Streamlit web application to analyze and visualize your exported
 
 👉 https://whatsappchatanalysis-aynr5zticmyg4zkh39mkrf.streamlit.app
 
+## 📖 Blog Post
+
+Read the full story and detailed walkthrough behind this project on Medium:
+👉 [Building a WhatsApp Chat Analyzer](https://medium.com/@itsharshit7216/building-a-whatsapp-chat-analyzer-4080e7c40de2?sharedUserId=itsharshit7216)
+
 ## 🌟 Features
 
 - **Overall Statistics:** At-a-glance view of total messages, total word count, media shared, and links sent.

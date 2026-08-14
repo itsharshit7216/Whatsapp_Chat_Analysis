@@ -2,8 +2,9 @@
 
 A comprehensive Streamlit web application to analyze and visualize your exported WhatsApp chat data. Gain insights into your texting habits, identify the most active group members, and view activity trends over time!
 
-## DEMO :
-https://whatsappchatanalysis-aynr5zticmyg4zkh39mkrf.streamlit.app
+## 🚀 Live Demo
+
+👉 [Open WhatsApp Chat Analyzer](https://whatsappchatanalysis-aynr5zticmyg4zkh39mkrf.streamlit.app/)
 
 ## 🌟 Features
 

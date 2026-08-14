@@ -4,7 +4,7 @@ A comprehensive Streamlit web application to analyze and visualize your exported
 
 ## 🚀 Live Demo
 
-👉 [Open WhatsApp Chat Analyzer](https://whatsappchatanalysis-aynr5zticmyg4zkh39mkrf.streamlit.app/)
+👉 https://whatsappchatanalysis-aynr5zticmyg4zkh39mkrf.streamlit.app
 
 ## 🌟 Features
 
